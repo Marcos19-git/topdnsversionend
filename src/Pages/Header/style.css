@@ -1,0 +1,114 @@
+@media (max-width: 850px) {
+  .topdns {
+    width: 250px;
+  }
+}
+
+@media (max-width: 597px) {
+  .divorange {
+    display: flex;
+    margin-left: -120px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 406px) {
+  .divorange {
+    display: flex;
+    margin-left: -70px;
+  }
+}
+
+@media (max-width: 467px) {
+  .buttonorange {
+    font-size: 1rem;
+    width: 160px;
+  }
+}
+@media (min-width: 468px) and (max-width: 569px) {
+  .buttonorange {
+    font-size: 1rem;
+    width: 160px;
+    transform: translateX(10px);
+  }
+}
+@media (min-width: 570px) and (max-width: 597px) {
+  .buttonorange {
+    font-size: 1rem;
+    width: 160px;
+    transform: translateX(10px);
+  }
+}
+@media (min-width: 300px) and (max-width: 406px) {
+  .buttonorange {
+    font-size: 0.6rem;
+    width: 120px;
+    transform: translateX(-15px);
+  }
+}
+@media (min-width: 570px) and (max-width: 597px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1800px;
+    margin-left: -410px;
+  }
+}
+@media (min-width: 505px) and (max-width: 569px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1800px;
+    margin-left: -410px;
+  }
+}
+@media (min-width: 489px) and (max-width: 504px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1800px;
+    margin-left: -430px;
+  }
+}
+@media (min-width: 477px) and (max-width: 488px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1700px;
+    margin-left: -390px;
+  }
+}
+@media (min-width: 458px) and (max-width: 476px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1600px;
+    margin-left: -360px;
+  }
+}
+@media (min-width: 450px) and (max-width: 457px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1550px;
+    margin-left: -350px;
+  }
+}
+@media (min-width: 430px) and (max-width: 449px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1500px;
+    margin-left: -340px;
+  }
+}
+@media (min-width: 407px) and (max-width: 429px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1400px;
+    margin-left: -320px;
+  }
+}
+@media (min-width: 25px) and (max-width: 406px) {
+  .imgdivw {
+    height: 800px;
+    min-width: 1250px;
+    margin-left: -285px;
+  }
+}
+
+.buttonorange {
+  font-family: "Roboto", sans-serif;
+}

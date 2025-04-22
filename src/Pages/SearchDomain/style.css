@@ -1,0 +1,137 @@
+@media (min-width: 400px) and (max-width: 699px) {
+  .divballoon {
+    justify-content: center;
+    width: 400px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+  .divballoon {
+    justify-content: center;
+    width: 340px;
+    border-radius: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 699px) {
+  .contedballon {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    gap: 10px;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+@media (min-width: 320px) and (max-width: 399px) {
+  .contedballon {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    gap: 10px;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+@media (max-width: 699px) {
+  .control1 {
+    margin-bottom: 30px;
+    display: flex;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 699px) {
+  .mititle {
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+  .mititle {
+    justify-content: center;
+    display: flex;
+    font-size: 0.8rem;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 399px) {
+  .divtitle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+@media (max-width: 699px) {
+  .divtitle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .testediv {
+    padding-left: 5px;
+    font-size: 16px;
+    padding-right: 5px;
+  }
+}
+@media (max-width: 400px) {
+  .wwwdiv {
+    font-size: 16px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+@media (max-width: 400px) {
+  .divplaceholdertam {
+    font-size: 14px;
+  }
+}
+.contedballon {
+  box-shadow: 0 0 5px grey;
+}
+
+@media (max-width: 699px) {
+  .divplaceholdertam {
+    width: 150px;
+  }
+}
+
+.testediv:active {
+  background-color: rgb(184, 81, 25);
+}
+
+@media (max-width: 699px) {
+  .divplain {
+    margin-top: -50px;
+  }
+}
+
+@media (min-width: 700px) {
+  .orangediv {
+    padding-left: 8px;
+  }
+}
+@media (max-width: 699px) {
+  .testediv {
+    border-radius: 0px;
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+  }
+}
+
+@media (min-width: 744px) and (max-width: 767px) {
+  .wrap22 {
+    padding-right: 50px;
+  }
+}

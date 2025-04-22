@@ -1,0 +1,16 @@
+@media (max-width: 811px) {
+  .i1,
+  .i2,
+  .i3 {
+    display: grid;
+    width: 250px;
+    height: 250px;
+  }
+}
+
+@media (max-width: 811px) {
+  .divimg11 {
+    padding-bottom: 30px;
+    gap: 20px;
+  }
+}

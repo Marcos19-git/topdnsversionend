@@ -1,0 +1,39 @@
+.grey {
+  width: 100%;
+  background-image: url("../Images/Home_24.avif");
+}
+
+@media (max-width: 1448px) {
+  .img1,
+  .img2,
+  .img3,
+  .img4,
+  .img5 {
+    width: 250px;
+    height: 220px;
+  }
+}
+
+.img1,
+.img2,
+.img3,
+.img4,
+.img5 {
+  transition: transform 0.2s ease; /* Adiciona uma animação suave ao transformar */
+}
+
+.img1:hover,
+.img2:hover,
+.img3:hover,
+.img4:hover,
+.img5:hover {
+  transform: translateY(-10px);
+}
+
+.img1,
+.img2,
+.img3,
+.img4,
+.img5 {
+  box-shadow: 0 0 25px black;
+}
