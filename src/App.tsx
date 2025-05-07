@@ -35,7 +35,7 @@ function App() {
 
     const fallbackTimer = setTimeout(() => {
       showContent();
-    }, 1000); // 1 segundos
+    }, 1000); // 1 segundo \\
 
     return () => {
       window.removeEventListener("scroll", handleScroll);

@@ -112,7 +112,7 @@ function Plans() {
             <div className="flex justify-center mt-[30px] text-gray-600">
               A partir de
             </div>
-            <div className="on justify-center flex  text-[75px] mt-[-15px] mr-[52px] ">
+            <div className="on justify-center flex  text-[75px] mt-[-15px] mr-[52px]">
               19
             </div>
             <div className="flex justify-end mt-[-85px]  pr-[47px] text-[28px]">
@@ -133,8 +133,8 @@ function Plans() {
             <div className="flex justify-center mt-[30px] text-gray-600">
               A partir de
             </div>
-            <div className=" justify-center flex  text-[75px] mt-[-15px] mr-[52px] ">
-              20
+            <div className="on justify-center flex  text-[75px] mt-[-15px] mr-[52px] ">
+              19
             </div>
             <div className="flex justify-end mt-[-85px]  pr-[47px] text-[28px]">
               <div className="translate-x-[2px]">,</div>
@@ -148,13 +148,13 @@ function Plans() {
         <div className="ballon cursor-pointer  bg-[#f4eeee] h-[210px] w-[210px] border-2 border-[#ff8400] rounded-[2em]">
           <a href="https://topdns.com.br/assine">
             <div className="flex justify-center bg-[#ff8400] p-[12px]  rounded-t-[1.8em]">
-              <h1 className="text-[18px] font-bold">TOP AVANÇADO</h1>
+              <h1 className="text-[18px] font-bold">TOP BÁSICO</h1>
             </div>
             <div className="flex justify-center mt-[30px] text-gray-600">
               A partir de
             </div>
-            <div className=" justify-center flex  text-[75px] mt-[-15px] mr-[52px] ">
-              30
+            <div className="on justify-center flex  text-[75px] mt-[-15px] mr-[52px] ">
+              19
             </div>
             <div className="flex justify-end mt-[-85px]  pr-[47px] text-[28px]">
               <div className="translate-x-[2px]">,</div>

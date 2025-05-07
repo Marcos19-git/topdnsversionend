@@ -76,7 +76,7 @@ function Projects() {
           </h2>
         </div>
         <div className="w-full transition-all duration-300 flex justify-center items-center gap-[40px] flex-wrap pb-[200px]">
-          <a href="{contatos.imagem1.link}" target="_blank" title="Yune Net">
+          <a href="https://yunenet.com.br/" target="_blank" title="Yune Net">
             <img
               className=" img1 p-[5px] rounded-[6px] bg-white"
               src={Cinza1}
