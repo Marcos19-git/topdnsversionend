@@ -56,7 +56,7 @@ function Host() {
     }
   };
   return (
-    <div className="w-full h-[100vh]">
+    <div className="w-full h-[100vh] overflow-x-hidden">
       <div className="w-full grid relative">
         <img className="imagemm w-full" src={ImgHeader} alt="" />
         <div className="w-full absolute p-3 grid justify-center items-center z-10">
