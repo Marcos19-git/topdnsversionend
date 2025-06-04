@@ -1,0 +1,108 @@
+@media (min-width: 400px) and (max-width: 857px) {
+  .ballondiv {
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+@media (min-width: 400px) and (max-width: 857px) {
+  .ballonconted {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    gap: 10px;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+@media (max-width: 857px) {
+  .tam {
+    width: 150px;
+  }
+}
+
+@media (min-width: 858px) and (max-width: 1131px) {
+  .control22 {
+    margin-top: 30px;
+  }
+}
+@media (min-width: 800px) and (max-width: 857px) {
+  .control22 {
+    margin-top: 30px;
+  }
+}
+@media (min-width: 618px) and (max-width: 799px) {
+  .control22 {
+    margin-top: 0px;
+  }
+}
+@media (min-width: 360px) and (max-width: 617px) {
+  .control22 {
+    margin-top: 0px;
+  }
+}
+@media (min-width: 360px) and (max-width: 800px) {
+  .imagemm {
+    height: 80vh;
+  }
+}
+
+@media (max-width: 999px) {
+  .eid2 {
+    width: 100vw;
+  }
+}
+
+@media (max-width: 999px) {
+  .basic2 {
+    width: 15vw;
+  }
+}
+
+@media (max-width: 999px) {
+  .basic3 {
+    width: 30vw;
+  }
+}
+@media (min-width: 570px) and (max-width: 799px) {
+  .buttonn2 {
+    font-size: 1rem;
+    width: 160px;
+    transform: translateX(10px);
+  }
+}
+@media (min-width: 672px) and (max-width: 799px) {
+  .register {
+    font-size: 3em;
+  }
+}
+@media (min-width: 672px) and (max-width: 799px) {
+  .register2 {
+    font-size: 1.1em;
+  }
+}
+@media (min-width: 454px) and (max-width: 671px) {
+  .register {
+    font-size: 2em;
+  }
+}
+@media (min-width: 454px) and (max-width: 671px) {
+  .register2 {
+    font-size: 0.8em;
+  }
+}
+@media (min-width: 387px) and (max-width: 453px) {
+  .register {
+    font-size: 1.7em;
+    margin-bottom: 1px;
+  }
+}
+@media (min-width: 387px) and (max-width: 453px) {
+  .register2 {
+    font-size: 0.6em;
+  }
+}

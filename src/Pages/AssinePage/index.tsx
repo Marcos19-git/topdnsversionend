@@ -9,7 +9,6 @@ import Twitter from "../Images/icon-twitter.avif";
 import axios from "axios";
 import { useState } from "react";
 import "./style.css";
-
 //Definir o que cada coisa é
 interface FormData {
   nome: string;
@@ -202,6 +201,7 @@ function AssinePage() {
                 value={formData.telefone}
                 onChange={handleChange}
               />
+
               {errors.telefone && (
                 <p className="text-red-500 text-sm">{errors.telefone}</p>
               )}
@@ -340,7 +340,7 @@ function AssinePage() {
                 className={`p-3 w-[70px] rounded-[5px] text-white ${
                   formData.dominioRegistrado ? "bg-red-800" : "bg-red-500"
                 }`}
-                onClick={() => handleRadioChange(false)}
+                onClick={() => handleRadioChange(true)}
               >
                 SIM
               </button>
@@ -348,7 +348,7 @@ function AssinePage() {
                 className={`p-3 w-[70px] rounded-[5px] text-white ${
                   formData.dominioRegistrado ? "bg-green-800" : "bg-green-600"
                 }`}
-                onClick={() => handleRadioChange(false)}
+                onClick={() => handleRadioChange(true)}
               >
                 NÃO
               </button>

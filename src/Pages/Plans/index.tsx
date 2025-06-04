@@ -79,7 +79,7 @@ function Plans() {
 
   return (
     <section>
-      <div className="divprue w-full flex flex-wrap  gap-[50px]  justify-center pt-[30px] pb-[60px]">
+      <div className="divprue w-full flex flex-wrap  gap-[50px]  justify-center pt-[40px] pb-[90px]">
         <div className="flex">
           <div className="ballon   grid justify-center items-center bg-[#ff8400] p-[10px] pt-[20px] pr-[15px] h-[210px] w-[210px] border-2 border-[#ff8400] rounded-[2em]">
             <div className="flex items-center mb-2">
